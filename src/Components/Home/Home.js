@@ -8,7 +8,7 @@ import "../../styles/HomeStyles.css"
 
 function Home() {
   return (
-    <Element name="home">
+    <Element name="Home">
        <div className="home">
                <div className="content">
                   <h6 className="intro">I'm</h6>

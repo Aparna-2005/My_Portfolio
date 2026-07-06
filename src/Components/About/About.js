@@ -27,7 +27,7 @@ function About() {
                   </div>
                 </div>
 
-                <div className="skills-content skills-animation">
+                {/* <div className="skills-content skills-animation">
                   <h5>Skills</h5>
                   <div className="progress">
                     <div className="progress-bar" role="progressbar" style={{"width":"90%"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="90"></div>
@@ -49,7 +49,7 @@ function About() {
                   </div>
                   <span className="skill"><span>Djando</span> <i className="val">70%</i></span>
 
-                </div>
+                </div> */}
 
               </div>
 

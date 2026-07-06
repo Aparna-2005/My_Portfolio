@@ -1,42 +1,60 @@
-import React from 'react'
-import { Element } from 'react-scroll'
+import React from "react";
+import { Element } from "react-scroll";
 
-import "../../styles/EducationStyles.css"
+// import "../../styles/ProjectStyles.css";
 
 function Education() {
-    return (
-        <Element>
-            <div className="resume">
-                <div className="container" data-aos="fade-up">
-                    <h2>Education</h2>
-                   <div className="row">
-                        <div className="col-lg-6">
-                            <div className="card border-0 mt-5">
-                                <img src="/images/school.jpeg" className='rounded-5' alt="bg-img" />
-                                <div className="card-body p-5">
-                                    <h1 className="card-title">B.SC COMPUTER SCIENCE</h1>
-                                    <p className="card-text" >Lady Doak College, Madurai</p>
-                                </div>
-                            </div>
-                        </div>
+  return (
+    <Element name="education">
+        <div className="container" data-aos="fade-up">
+          <div className="text-center">
+            <h2 className="fw-bold">Education</h2>
+          </div>
 
-                        <div className="col-lg-6">
-                            <div className="card mt-5 border-0">
-                                <img src="/images/college.jpeg" className='rounded-5' alt="bg-img"/>
-                                <div className="card-body p-5">
-                                    <h1 className="card-title h1">FULL STACK DEVELOPER</h1>
-                                    <p className="card-text p">KGiSL Micro College, Coimbatore</p>
-                                </div>
-                            </div>
-                        </div>
-                   </div>
+          <div className="row">
+            <div className="col-lg-6 col-md-6 col-12">
+              <div className="card h-100 shadow-sm border-0 project-card">
+                <img
+                  src="/images/school.jpeg"
+                  alt="LDC"
+                  className="card-img-top project-image"
+                />
+
+                <div className="card-body d-flex flex-column">
+                  <h5 className="card-title fw-bold text-center">
+                    B.SC COMPUTER SCIENCE
+                  </h5>
+
+                  <p className="card-text text-center text-muted flex-grow-1">
+                    LADY DOAK COLLEGE, MADURAI
+                  </p>
                 </div>
-
-               
+              </div>
             </div>
 
-        </Element>
-    )
+            <div className="col-lg-6 col-md-6 col-12">
+              <div className="card h-100 shadow-sm border-0 project-card">
+                <img
+                  src="/images/college.jpeg"
+                  alt="LDC"
+                  className="card-img-top project-image"
+                />
+
+                <div className="card-body d-flex flex-column">
+                  <h5 className="card-title fw-bold text-center">
+                    FULL STACK DEVELOPMENT
+                  </h5>
+
+                  <p className="card-text text-center text-muted flex-grow-1">
+                    KGISL MICRO COLLEGE, COIMBATORE
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </Element>
+  );
 }
 
-export default Education
+export default Education;

@@ -1,0 +1,75 @@
+.resume {
+    background: #f8f9fa;
+    min-height: 100vh;
+}
+
+.resume h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 10px;
+}
+
+.project-card {
+    border-radius: 15px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.15) !important;
+}
+
+.project-image {
+    height: 220px;
+    object-fit: cover;
+}
+
+.card-title {
+    color: #222;
+    font-size: 1.3rem;
+}
+
+.card-text {
+    text-align: justify;
+    font-size: 0.95rem;
+    line-height: 1.7;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+/* Tablet */
+
+@media (max-width: 991px) {
+    .resume {
+        padding: 60px 0;
+    }
+
+    .project-image {
+        height: 200px;
+    }
+}
+
+/* Mobile */
+
+@media (max-width: 767px) {
+    .resume h2 {
+        font-size: 2rem;
+    }
+
+    .project-image {
+        height: 220px;
+    }
+
+    .card-body {
+        padding: 1.2rem;
+    }
+
+    .card-text {
+        font-size: 0.9rem;
+    }
+}
