@@ -16,7 +16,7 @@ function Certificates() {
                 </p> */}
               </div>
     
-              <div className="row g-4 pt-4">
+              <div className="row g-4">
                   <div className="col-lg-4 col-md-4 col-12">
                     <div className="card h-100 shadow-sm border-0 project-card">
                       <img src="images/HTMLCSS.jpeg" alt="HTML&CSS"  className="card-img-top project-image"/>

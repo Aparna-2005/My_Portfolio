@@ -16,7 +16,7 @@ function About() {
               <div className="col-md-6">
                 <div className="row justify-content-between gy-4">
                   <div className="col-lg-5">
-                    <img src="images/Aparna_image.png" className="img-fluid" alt="Full Stack Developer"/>
+                    <img src="images/Aparna_Image.png" className="img-fluid" alt="Full Stack Developer"/>
                   </div>
                   <div className="col-lg-7 about-info">
                     <p><strong>Name: </strong> <span>Aparna Mahalakshmi R</span></p>
