@@ -20,7 +20,7 @@ function Certificates() {
                       <div className="card-body d-flex flex-column">
                         <h5 className="card-title fw-bold text-center">  HTML & CSS </h5>
                         <p className="card-text text-muted flex-grow-1 text-center">  Meta - Coursera </p>
-                        <a href="#" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> 4 weeks </a>
+                        <a href="https://drive.google.com/file/d/1KSgME_aHFhew8ACA5EzWhx8cM49XicPL/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> View </a>
                       </div>
                     </div>
                   </div>
@@ -31,7 +31,7 @@ function Certificates() {
                       <div className="card-body d-flex flex-column">
                         <h5 className="card-title fw-bold text-center">  Javasrcipt </h5>
                         <p className="card-text text-muted flex-grow-1 text-center">  Meta - Coursera </p>
-                        <a href="#" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> 4 weeks </a>
+                        <a href="https://drive.google.com/file/d/18Ap1K_M8RtyXIPYvPEf_0rUQMNWAAwwF/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> View </a>
                       </div>
                     </div>
                   </div>
@@ -42,7 +42,7 @@ function Certificates() {
                       <div className="card-body d-flex flex-column">
                         <h5 className="card-title fw-bold text-center">  React </h5>
                         <p className="card-text text-muted flex-grow-1 text-center">  Meta - Coursera </p>
-                        <a href="#" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> 4 weeks </a>
+                        <a href="https://drive.google.com/file/d/1MGt0nuumkOJoN1z6O6NpA9VRWB9JsWJZ/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> View </a>
                       </div>
                     </div>
                   </div>
@@ -53,7 +53,7 @@ function Certificates() {
                       <div className="card-body d-flex flex-column">
                         <h5 className="card-title fw-bold text-center">  Programming in Java </h5>
                         <p className="card-text text-muted flex-grow-1 text-center">  NPTEL - Online Certification </p>
-                        <a href="#" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> 4 weeks </a>
+                        <a href="https://drive.google.com/file/d/1CZ9938pZrff06nsXFgormK4u7Y_yknwa/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> View </a>
                       </div>
                     </div>
                   </div>
@@ -64,7 +64,7 @@ function Certificates() {
                       <div className="card-body d-flex flex-column">
                         <h5 className="card-title fw-bold text-center">  Introduction to Databases </h5>
                         <p className="card-text text-muted flex-grow-1 text-center">  Meta - Coursera </p>
-                        <a href="#" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> 4 weeks </a>
+                        <a href="https://drive.google.com/file/d/17EklrxuvjmOqBB8e9BJguw6Tfsrx94U5/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> View </a>
                       </div>
                     </div>
                   </div>
@@ -75,7 +75,7 @@ function Certificates() {
                       <div className="card-body d-flex flex-column">
                         <h5 className="card-title fw-bold text-center">  Full Stack Development </h5>
                         <p className="card-text text-muted flex-grow-1 text-center">  KGiSL Micro College </p>
-                        <a href="#" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> 8 Months </a>
+                        <a href="https://drive.google.com/file/d/1ABs9a0bStmYa4uGZfMisYNg_AlHrbe-W/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="btn btn-primary w-100 mt-3"> View </a>
                       </div>
                     </div>
                   </div>
