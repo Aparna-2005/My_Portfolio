@@ -1,0 +1,5 @@
+.project-image {
+  width: 100%;
+  height: 260px;
+  object-fit: cover; /* or contain if you don't want cropping */
+}

@@ -1,7 +1,10 @@
 import React from 'react'
 import { Element } from "react-scroll";
 
+import "../../styles/CertificateStyles.css";
+
 function Certificates() {
+
   return (
     <Element name="certificates">
           <section className="resume">
