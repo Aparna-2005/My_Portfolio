@@ -1,6 +1,6 @@
 .resume {
     background: #f8f9fa;
-    min-height: 100vh;
+    /* min-height: 100vh; */
 }
 
 .resume h2 {
@@ -45,9 +45,9 @@
 /* Tablet */
 
 @media (max-width: 991px) {
-    .resume {
+    /* .resume {
         padding: 60px 0;
-    }
+    } */
 
     .project-image {
         height: 200px;
